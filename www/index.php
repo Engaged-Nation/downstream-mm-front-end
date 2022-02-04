@@ -70,6 +70,6 @@ if ($clientDBName == 'downstream-mm_portal')
             }(jQuery)
         );
     </script>
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=downstream-mm&client_id=56b56a0a82c231bd7aa7bfd683e8b316" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=downstream-mm&client_id=daab1c1ef4f24285264d3e8ade20f75e" type="text/javascript"></script>
 </body>
 </html>
