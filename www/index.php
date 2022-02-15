@@ -28,7 +28,7 @@ $description = "Take a shot at becoming a millionaire during the men’s college
     <link rel="mask-icon" href="<?php echo $enConfigClient['environment']['s3_uploads_url']; ?>/skins/safari-pinned-tab.svg" color="#5bbad5">
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#FFFFFF">
-
+    <script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=712d82ef"></script>
 </head>
 <body>
     <div id="en-header-layout-container"></div>
